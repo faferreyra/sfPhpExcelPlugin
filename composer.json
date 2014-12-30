@@ -1,0 +1,10 @@
+{
+	"name" : "symfony/sf-php-excel-plugin",
+	"type" : "symfony1-plugin",
+	"description" : "symfony 1.x plugin which provides a bridge to PHPExcel library",
+	"keywords" : ["symfony", "excel"],
+	"require" : {
+		"composer/installers" : "*"
+		"phpoffice/phpexcel"  : "*"
+	}
+}
